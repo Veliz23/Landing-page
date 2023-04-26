@@ -1,0 +1,54 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+    background-color: black;
+    height: 200px;
+    background-image: url('../img/mate\ silues.jpg');
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: right center;
+    padding: 60px;
+}
+
+main{
+    background-image: linear-gradient(0, #ffffff 0, #ffffff 16.67%, #c1cdcd 33.33%, #9a9a9a 50%, #6a6b6b 66.67%, #1e2020 83.33%, #121010 100%);}
+
+.title{
+ color: white;
+ padding-top: 50px;
+ padding-left: 80px;
+}
+
+.subTitle{
+    color: white;
+    padding-left: 150px;
+   }
+
+.product{
+    width: 300px;
+    margin-left: 150px;
+    
+}
+
+.price{
+    margin-left: 150px;
+}
+
+.img_product{
+    width: 300px;
+    margin: 25px;
+}
+footer{
+    background-color: black;
+    padding: 1px;
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.text-white{
+    color: white;
+}
